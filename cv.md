@@ -16,7 +16,7 @@ I have some experience in HTML development. I took courses on other frontend dev
 ### Code Example
 ``` let upButton=document.querySelector ('.up-Button');
 window.onscroll=function(){
-    Fi(window.pageYOffset>200){
+    if(window.pageYOffset>200){
         upButton.classList.add('shown');
     };
 };```

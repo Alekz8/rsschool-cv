@@ -7,3 +7,17 @@
 * GitHub: [Alekz8](https://github.com/Alekz8)
 ### About Me
 I have some experience in HTML development. I took courses on other frontend developing training platforms.
+### Skills
+* HTML
+* CSS
+* JS (basic)
+* Git (GitHub)
+* VS code
+### Code Example
+``` let upButton=document.querySelector ('.up-Button');
+window.onscroll=function(){
+    Fi(window.pageYOffset>200){
+        upButton.classList.add('shown');
+    };
+};```
+### Expirience

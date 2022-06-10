@@ -21,3 +21,7 @@ window.onscroll=function(){
     };
 };```
 ### Expirience
+### Education
+* University: Urals Federal University
+### Languages:
+* English (A1)
